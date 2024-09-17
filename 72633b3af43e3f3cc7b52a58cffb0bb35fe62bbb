@@ -16,6 +16,23 @@
       "message": "I\u0027ve notice while using `sh` `bash` or `zsh` on my `wsl2` I got error while  running `./build-setup.sh`:\n```\n/home/USERNAME/1375711795/build.sh: line 27: syntax error near unexpected token `(\u0027\n```\nadding quotation marks - fix the problem and allow to build the image using `build-setup.sh` script.",
       "revId": "72633b3af43e3f3cc7b52a58cffb0bb35fe62bbb",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8d3b8f70_9f5f4ded",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1002206
+      },
+      "writtenOn": "2024-09-17T08:30:05Z",
+      "side": 1,
+      "message": "Adding reviewer",
+      "revId": "72633b3af43e3f3cc7b52a58cffb0bb35fe62bbb",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
   ]
 }
