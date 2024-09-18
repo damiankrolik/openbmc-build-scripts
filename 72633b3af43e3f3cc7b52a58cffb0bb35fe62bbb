@@ -33,6 +33,23 @@
       "message": "Adding reviewer",
       "revId": "72633b3af43e3f3cc7b52a58cffb0bb35fe62bbb",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f14a3a93_6084399a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-09-18T12:58:12Z",
+      "side": 1,
+      "message": "Hi Damian, something isn\u0027t quite right here. Looks like you pushed to your own gerrit repo. You may want to look over https://github.com/openbmc/docs/blob/master/development/gerrit-setup.md and be sure your push to gerrit looks like the command at the end of that doc.",
+      "revId": "72633b3af43e3f3cc7b52a58cffb0bb35fe62bbb",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4"
     }
   ]
 }
